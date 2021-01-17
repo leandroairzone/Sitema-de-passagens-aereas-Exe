@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.exe
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.deps.json
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.runtimeconfig.json
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.dll
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\ref\Sistema de passagens aereas.dll
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\bin\Debug\net5.0\Sistema de passagens aereas.pdb
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.dll
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\ref\Sistema de passagens aereas.dll
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.pdb
+C:\Users\Leandro\Desktop\Sistema de passagens aereas\obj\Debug\net5.0\Sistema de passagens aereas.genruntimeconfig.cache
