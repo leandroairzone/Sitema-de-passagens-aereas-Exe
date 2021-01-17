@@ -25,7 +25,7 @@ namespace Sistema_de_passagens_aereas
 
             Console.WriteLine("-------------------------------------");
             Console.WriteLine("--------Sistema de Passagens---------");
-            Console.WriteLine("-------------------------------------");
+            Console.WriteLine("----------------AULA---------------------");
 
             do
             {
